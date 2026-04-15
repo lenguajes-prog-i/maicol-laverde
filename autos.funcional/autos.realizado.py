@@ -8,9 +8,9 @@ def representar_auto(auto):
 
 autos = [
 
-crear_auto("BMW", "IBC123"),
+crear_auto("BMW", "ABC123"),
 
-crear_auto("toyota", "HCM123"),
+crear_auto("toyota", "CM123"),
 
 crear_auto("Ferrari", "BLB123"),
 
